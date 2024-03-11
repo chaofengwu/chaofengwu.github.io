@@ -15,5 +15,6 @@ nav_order: 1
 </div>
 
 ## Working paper
+
 - Prediction versus Prescription in Complex Games.
-Jeff Ely, Ben Golub, Annie Liang, Chaofeng Wu.
+  Jeff Ely, Ben Golub, Annie Liang, Chaofeng Wu.
