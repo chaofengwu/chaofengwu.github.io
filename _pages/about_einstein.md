@@ -1,5 +1,7 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Computer Science PhD student at Northwestern University(NU) advised by Prof. [Annie Liang](https://www.anniehliang.com/) and Prof. [Ben Golub](https://bengolub.net/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interest is the applications of Computer Science in Economics. I apply data science and machine learning techniques to problems in decision theory and network of economics. I am also interested in model building and evaluation. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I got my M.S. degree in CS from University of Chicago(UChicago), advised by Prof. Ian Foster and Prof. Kyle Chard. Before that, I got my B.S. degree in ECE from Shanghai Jiao Tong University (SJTU).
+
+Click [here](https://drive.google.com/file/d/1IRY0MV8hQRpGeEObJIyzKsRN9lgU1OjS/view?usp=sharing) for my CV.
