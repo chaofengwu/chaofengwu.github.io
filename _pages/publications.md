@@ -25,5 +25,9 @@ nav_order: 1
 
 ## Conference paper
 
+- Managing Strategic Complexity.  
+  Jeff Ely, Ben Golub, Annie Liang, Chaofeng Wu.  
+  The Twenty-Fifth ACM Conference on Economics and Computation (EC'24). Extended abstract.
 - [ParaOpt: Automated Application Parameterization and Optimization for the Cloud.](https://www.researchgate.net/publication/338945504_ParaOpt_Automated_Application_Parameterization_and_Optimization_for_the_Cloud)  
-  Chaofeng Wu, Ted Summer, Zhuozhao Li, Anna Woodard, Ryan Chard, Matt Baughman, Yadu Babuji, Kyle Chard, Jason Pitt, Ian Foster
+  Chaofeng Wu, Ted Summer, Zhuozhao Li, Anna Woodard, Ryan Chard, Matt Baughman, Yadu Babuji, Kyle Chard, Jason Pitt, Ian Foster.  
+  2019 IEEE International Conference on Cloud Computing Technology and Science (CloudCom)
