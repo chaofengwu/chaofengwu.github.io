@@ -16,8 +16,8 @@ nav_order: 1
   Jeff Ely, Ben Golub, Annie Liang, Chaofeng Wu.
 - [The Transfer Performance of Economic Models.](https://arxiv.org/abs/2202.04796)
   Isaiah, Andrews, Drew Fudenberg, Lihua Lei, Annie Liang, Chaofeng Wu
-<!-- - [Adaptive Pre-training Data Detection for Large Language Models via Surprising Tokens](https://arxiv.org/abs/2407.21248)
-  Anqi Zhang, Chaofeng Wu -->
+- [Adaptive Pre-training Data Detection for Large Language Models via Surprising Tokens](https://arxiv.org/abs/2407.21248)
+  Anqi Zhang, Chaofeng Wu
 - Graph Enpowered Upsell for Function-based Products.
   Jaime Ramirez, Chaofeng Wu
 
