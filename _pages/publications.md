@@ -13,6 +13,7 @@ nav_order: 1
 </div>
 
 ## Working paper
+
 - Prediction versus Prescription in Complex Games.
   Jeff Ely, Ben Golub, Annie Liang, Chaofeng Wu.
 - [The Transfer Performance of Economic Models.](https://arxiv.org/abs/2202.04796)
@@ -23,5 +24,6 @@ nav_order: 1
   Jaime Ramirez, Chaofeng Wu
 
 ## Conference paper
+
 - [ParaOpt: Automated Application Parameterization and Optimization for the Cloud.](https://www.researchgate.net/publication/338945504_ParaOpt_Automated_Application_Parameterization_and_Optimization_for_the_Cloud)
   Chaofeng Wu, Ted Summer, Zhuozhao Li, Anna Woodard, Ryan Chard, Matt Baughman, Yadu Babuji, Kyle Chard, Jason Pitt, Ian Foster
