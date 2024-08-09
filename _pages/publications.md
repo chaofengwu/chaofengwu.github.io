@@ -8,8 +8,11 @@ nav_order: 1
 ---
 
 <!-- _pages/publications.md -->
+<!-- <div class="publications">
 
+{% bibliography %}
 
+</div> -->
 ## Working paper
 - Prediction versus Prescription in Complex Games.
   Jeff Ely, Ben Golub, Annie Liang, Chaofeng Wu.
@@ -23,8 +26,3 @@ nav_order: 1
 ## Conference paper
 - [ParaOpt: Automated Application Parameterization and Optimization for the Cloud.](https://www.researchgate.net/publication/338945504_ParaOpt_Automated_Application_Parameterization_and_Optimization_for_the_Cloud)
   Chaofeng Wu, Ted Summer, Zhuozhao Li, Anna Woodard, Ryan Chard, Matt Baughman, Yadu Babuji, Kyle Chard, Jason Pitt, Ian Foster
-<!-- <div class="publications">
-
-{% bibliography %}
-
-</div> -->
