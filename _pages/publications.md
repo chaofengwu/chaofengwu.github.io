@@ -13,16 +13,18 @@ nav_order: 1
 </div>
 
 ## Working paper
+
 - Novelties and Impacts.
   Chaofeng Wu
 - Managing Strategic Complexity.  
   Jeff Ely, Ben Golub, Annie Liang, Chaofeng Wu
-  The Twenty-Fifth ACM Conference on Economics and Computation (EC'24). Extended abstract.
+  EC 2024. Extended abstract.
 - [The Transfer Performance of Economic Models.](https://arxiv.org/abs/2202.04796)
   Isaiah, Andrews, Drew Fudenberg, Lihua Lei, Annie Liang, Chaofeng Wu
-  The Twenty-Sixth ACM Conference on Economics and Computation (EC'25). Extended abstract.
+  EC 2025. Extended abstract.
 
 ## Other paper
+
 - [Adaptive Pre-training Data Detection for Large Language Models via Surprising Tokens](https://arxiv.org/abs/2407.21248)  
   Anqi Zhang, Chaofeng Wu
 - Graph Enpowered Upsell for Function-based Products.  
