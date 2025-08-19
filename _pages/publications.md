@@ -13,21 +13,22 @@ nav_order: 1
 </div>
 
 ## Working paper
-
-- Prediction versus Prescription in Complex Games.  
-  Jeff Ely, Ben Golub, Annie Liang, Chaofeng Wu.
-- [The Transfer Performance of Economic Models.](https://arxiv.org/abs/2202.04796)  
+- Novelties and Impacts.
+  Chaofeng Wu
+- Managing Strategic Complexity.  
+  Jeff Ely, Ben Golub, Annie Liang, Chaofeng Wu
+  The Twenty-Fifth ACM Conference on Economics and Computation (EC'24). Extended abstract.
+- [The Transfer Performance of Economic Models.](https://arxiv.org/abs/2202.04796)
   Isaiah, Andrews, Drew Fudenberg, Lihua Lei, Annie Liang, Chaofeng Wu
+  The Twenty-Sixth ACM Conference on Economics and Computation (EC'25). Extended abstract.
+
+## Other paper
 - [Adaptive Pre-training Data Detection for Large Language Models via Surprising Tokens](https://arxiv.org/abs/2407.21248)  
   Anqi Zhang, Chaofeng Wu
 - Graph Enpowered Upsell for Function-based Products.  
   Jaime Ramirez, Chaofeng Wu
-
-## Conference paper
-
-- Managing Strategic Complexity.  
-  Jeff Ely, Ben Golub, Annie Liang, Chaofeng Wu.  
-  The Twenty-Fifth ACM Conference on Economics and Computation (EC'24). Extended abstract.
+- [VariOpt: balancing variant calling runtime and correctness via constrained Bayesian optimization.](https://drive.google.com/file/d/1HMueo_4k2GK04lmZddPAiJJaXKknKvE5/view?usp=drive_link)
+  Chaofeng Wu, Zhuozhao Li, Anna Woodard, Akila Perera, Matt Baughman, Ryan Chard, Kyle Chard, and Jason J. Pitt
 - [ParaOpt: Automated Application Parameterization and Optimization for the Cloud.](https://www.researchgate.net/publication/338945504_ParaOpt_Automated_Application_Parameterization_and_Optimization_for_the_Cloud)  
   Chaofeng Wu, Ted Summer, Zhuozhao Li, Anna Woodard, Ryan Chard, Matt Baughman, Yadu Babuji, Kyle Chard, Jason Pitt, Ian Foster.  
   2019 IEEE International Conference on Cloud Computing Technology and Science (CloudCom)
