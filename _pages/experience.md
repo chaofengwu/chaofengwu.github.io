@@ -10,8 +10,7 @@ nav_order: 2
 ## Internship
 
 - Research Intern, Microsoft Research, Redmond. Summer 2023.
-
-Work with Dr. Jaime Ramirez. Topic: Graph enpowered upsell for function-based products.
+  Work with Dr. Jaime Ramirez. Topic: Graph empowered upsell for function-based products.
 
 ## Teaching Assistants
 
