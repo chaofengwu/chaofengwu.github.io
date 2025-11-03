@@ -14,7 +14,7 @@ nav_order: 1
 
 ## Working Papers
 
-- Novelty and Impact of Economics Papers.  
+- [Novelty and Impact of Economics Papers](https://drive.google.com/file/d/1jY2tpgfnFzxEn-AVJnMVlBBM53MLHUEe/view?usp=drive_link)  
   Chaofeng Wu
 - [Managing Strategic Complexity](https://drive.google.com/file/d/1mZ5qhsRU5o_zjg4zlLnT0sQVKiMoL2ny/view?usp=drive_link)  
   Jeff Ely, Ben Golub, Annie Liang, Chaofeng Wu  
