@@ -19,4 +19,4 @@ My research interest is the applications of Computer Science in Social Science, 
 
 I got my M.S. degree in CS from University of Chicago(UChicago), advised by Prof. Ian Foster and Prof. Kyle Chard. Before that, I got my B.S. degree in ECE from Shanghai Jiao Tong University (SJTU).
 
-Click [here](https://drive.google.com/file/d/1TtEyBIfnDYtQMSc-f-rTRm0zR1It-6BT/view?usp=sharing) for my CV.
+Click [here](https://drive.google.com/file/d/1Cad2oaZ7FiVo-W4lU_57SvILdgNALwRS/view?usp=sharing) for my CV.
